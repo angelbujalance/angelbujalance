@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there, I'm Àngel 👋
 
 <!--
 **angelbujalance/angelbujalance** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## How to contact me?
+
+
+<a href="https://www.linkedin.com/in/angelbujalanceg"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
+
+<a href="https://www.linkedin.com/in/angelbujalanceg"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
