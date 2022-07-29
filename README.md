@@ -31,7 +31,7 @@ Welcome to my Github profile!
 <img align="left" src="https://raw.githubusercontent.com/angelbujalance/angelbujalance/main/images/sql-server.png" width="21px"/></a>
 <img align="left" src="https://raw.githubusercontent.com/angelbujalance/angelbujalance/main/images/r.png" width="21px"/></a>
 <img align="left" src="https://raw.githubusercontent.com/angelbujalance/angelbujalance/main/images/anaconda.png" width="21px"/></a>
-<img align="left" src="https://raw.githubusercontent.com/angelbujalance/angelbujalance/main/images/jupyter.png" width="21px"/></a>
+<img align="left" src="https://raw.githubusercontent.com/angelbujalance/angelbujalance/main/images/jupyter.png" width="45px"/></a>
 <img align="left" src="https://raw.githubusercontent.com/angelbujalance/angelbujalance/main/images/postgre.png" width="21px"/></a>
 <img align="left" src="https://raw.githubusercontent.com/angelbujalance/angelbujalance/main/images/github.png" width="21px"/></a>
 
@@ -41,7 +41,7 @@ Welcome to my Github profile!
 
 ## My Latest Projects
 
-1. Predicting Alzheimer disease from brain data using Machine Learning.
+[1.:stethoscope:](https://github.com/angelbujalance/Alzhemier-Classification) Predicting Alzheimer disease from brain data using Machine Learning.
 
 ### Packages:
 
