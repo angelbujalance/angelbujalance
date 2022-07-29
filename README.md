@@ -1,5 +1,6 @@
 # Hi there, I'm Àngel 👋
 
+Welcome to my Github profile!
 
 ## I'm a Data Science Master's student, AI enthusiast and Python programmer!
 
@@ -12,18 +13,35 @@
 - 💬 Ask me about statistics, hypothesis testing, bayesian theorem or Python.
 - ⚡ Fun fact: I am passionate about neuroscience and science in general!
 
-## How to contact me?
+## Connect with me:
 
-<a href="https://www.linkedin.com/in/angelbujalanceg"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
+<a href="https://www.linkedin.com/in/angelbujalanceg"><img align="left" src="https://raw.githubusercontent.com/angelbujalance/angelbujalance/main/images/linkedin.png" alt="Angel | LinkedIn" width="21px"/></a>
 
-<a href="https://www.linkedin.com/in/angelbujalanceg"><img align="left" src="https://github.com/angelbujalance/angelbujalance/blob/main/images/gmail.png" alt="Angel Bujalance | Gmail" width="21px"/></a>
+<a href=""><img align="left" src="https://raw.githubusercontent.com/angelbujalance/angelbujalance/main/images/internet.png" alt="Angel | Web" width="21px"/></a>
+
+<a href=""><img align="left" src="https://raw.githubusercontent.com/angelbujalance/angelbujalance/main/images/stack-overflow.png" alt="Angel | Stack Overflow" width="21px"/></a>
+
+<a href=""><img align="left" src="https://raw.githubusercontent.com/angelbujalance/angelbujalance/main/images/medium.png" alt="Angel | Medium" width="21px"/></a>
+<br />
 
 ## Languages and tools
 
 
-## My Projects
+<img align="left" src="https://raw.githubusercontent.com/angelbujalance/angelbujalance/main/images/python.png" width="21px"/></a>
+<img align="left" src="https://raw.githubusercontent.com/angelbujalance/angelbujalance/main/images/sql-server.png" width="21px"/></a>
+<img align="left" src="https://raw.githubusercontent.com/angelbujalance/angelbujalance/main/images/r.png" width="21px"/></a>
+<img align="left" src="https://raw.githubusercontent.com/angelbujalance/angelbujalance/main/images/anaconda.png" width="21px"/></a>
+<img align="left" src="https://raw.githubusercontent.com/angelbujalance/angelbujalance/main/images/jupyter.png" width="21px"/></a>
+<img align="left" src="https://raw.githubusercontent.com/angelbujalance/angelbujalance/main/images/postgre.png" width="21px"/></a>
+<img align="left" src="https://raw.githubusercontent.com/angelbujalance/angelbujalance/main/images/github.png" width="21px"/></a>
+
+<br />
 
 
+
+## My Latest Projects
+
+1. Predicting Alzheimer disease from brain data using Machine Learning.
 
 ### Packages:
 
