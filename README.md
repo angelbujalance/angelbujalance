@@ -42,12 +42,6 @@ Welcome to my Github profile!
 ## My Latest Projects
 
 [1.:stethoscope:](https://github.com/angelbujalance/Alzhemier-Classification) Predicting Alzheimer disease from brain data using Machine Learning.
-
-### Packages:
-
-<details>
-  <summary>:zap: </summary>
-    <br />
     
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
