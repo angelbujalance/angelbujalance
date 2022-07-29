@@ -21,7 +21,7 @@ Welcome to my Github profile!
 
 <a href=""><img align="left" src="https://raw.githubusercontent.com/angelbujalance/angelbujalance/main/images/stack-overflow.png" alt="Angel | Stack Overflow" width="21px"/></a>
 
-<a href=""><img align="left" src="https://raw.githubusercontent.com/angelbujalance/angelbujalance/main/images/medium.png" alt="Angel | Medium" width="21px"/></a>
+<a href="https://medium.com/@angelbujalanceg"><img align="left" src="https://raw.githubusercontent.com/angelbujalance/angelbujalance/main/images/medium.png" alt="Angel | Medium" width="21px"/></a>
 <br />
 
 ## Languages and tools
