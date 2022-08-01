@@ -13,14 +13,11 @@ Welcome to my Github profile!
 - 💬 Ask me about statistics, hypothesis testing, bayesian theorem or Python.
 - ⚡ Fun fact: I am passionate about neuroscience and science in general!
 
-## Connect with me:
+## Find me:
 
 <a href="https://www.linkedin.com/in/angelbujalanceg"><img align="left" src="https://raw.githubusercontent.com/angelbujalance/angelbujalance/main/images/linkedin.png" alt="Angel | LinkedIn" width="21px"/></a>
-
-<a href=""><img align="left" src="https://raw.githubusercontent.com/angelbujalance/angelbujalance/main/images/internet.png" alt="Angel | Web" width="21px"/></a>
-
 <a href="https://stackoverflow.com/users/19666367/angel-bujalance"><img align="left" src="https://raw.githubusercontent.com/angelbujalance/angelbujalance/main/images/stack-overflow.png" alt="Angel | Stack Overflow" width="21px"/></a>
-
+<a href="https://www.linkedin.com/in/angelbujalanceg"><img align="left" src="https://raw.githubusercontent.com/angelbujalance/angelbujalance/main/images/internet.png" alt="Angel | Web" width="21px"/></a>
 <a href="https://medium.com/@angelbujalanceg"><img align="left" src="https://raw.githubusercontent.com/angelbujalance/angelbujalance/main/images/medium.png" alt="Angel | Medium" width="21px"/></a>
 <br />
 
