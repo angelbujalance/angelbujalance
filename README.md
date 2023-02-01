@@ -4,7 +4,7 @@ Welcome to my Github profile!
 
 ## I'm a Data Science Master's student, AI enthusiast and Python programmer!
 
-- 🔭 I’m currently working on projects using Machine Learning.
+- 🔭 I’m currently working on projects using Machine Learning and genetic algorithms.
 - 🌱 I’m currently learning about Machine Learning, OOP programing and new ways to optimize my Python code.
 - :goal_net: 2023 Goals:
   - :black_nib: Start writting on Medium.
