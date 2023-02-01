@@ -6,11 +6,11 @@ Welcome to my Github profile!
 
 - 🔭 I’m currently working on projects using Machine Learning.
 - 🌱 I’m currently learning about Machine Learning, OOP programing and new ways to optimize my Python code.
-- :goal_net: 2022 Goals:
+- :goal_net: 2023 Goals:
   - :black_nib: Start writting on Medium.
   - 🤝 Helping others on stackoverflow.
   - :floppy_disk: Add new projects to my portfolio.
-- 💬 Ask me about statistics, hypothesis testing, bayesian theorem or Python.
+- 💬 Ask me about statistics, hypothesis testing, bayesian theorem, conventional machine-learning, genetic algorithms or Python.
 - ⚡ Fun fact: I am passionate about neuroscience and science in general!
 
 ## Find me:
