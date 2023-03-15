@@ -42,3 +42,6 @@ Welcome to my Github profile!
     
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
+
+
+![Leetcode Stats](https://leetcard.angelbujalance.cool/JacobLinCool?font=patrick_hand)
