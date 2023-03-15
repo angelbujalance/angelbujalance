@@ -44,4 +44,4 @@ Welcome to my Github profile!
 <!--END_SECTION:activity-->
 
 
-![Leetcode Stats]([https://leetcard.angelbujalance.cool/JacobLinCool?font=patrick_hand](https://leetcard.jacoblin.cool/angelbujalance?theme=forest&font=Patrick%20Hand&ext=activity))
+[Leetcode Stats]([https://leetcard.angelbujalance.cool/JacobLinCool?font=patrick_hand](https://leetcard.jacoblin.cool/angelbujalance?theme=forest&font=Patrick%20Hand&ext=activity))
