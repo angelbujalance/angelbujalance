@@ -39,7 +39,7 @@ Welcome to my Github profile!
 ## Projects
 
 [1.:stethoscope: Predicting Alzheimer disease from brain data using Machine Learning.](https://github.com/angelbujalance/Alzhemier-Classification) August 2022
-[2. :dna: Use of Genetic algorithms and DBSCAN to build a metro line from Uber dataset.]([20221_M2.855_PEC2-Enunciado.ipynb](https://github.com/angelbujalance/MAME_PEC_PUBLIC/blob/main/20221_M2.855_PEC2-Enunciado.ipynb)) March 2023
+[2. :dna: Use of Genetic algorithms and DBSCAN to build a metro line from Uber dataset.](https://github.com/angelbujalance/MAME_PEC_PUBLIC/blob/main/20221_M2.855_PEC2-Enunciado.ipynb) March 2023
     
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
